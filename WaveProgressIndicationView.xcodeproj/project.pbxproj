@@ -13,6 +13,7 @@
 		9D88542426A502A100C9396A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D88542226A502A100C9396A /* Main.storyboard */; };
 		9D88542626A502A200C9396A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D88542526A502A200C9396A /* Assets.xcassets */; };
 		9D88542926A502A200C9396A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D88542726A502A200C9396A /* LaunchScreen.storyboard */; };
+		9D88543126A502BA00C9396A /* WaveProgressIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D88543026A502BA00C9396A /* WaveProgressIndicatorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9D88542526A502A200C9396A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9D88542826A502A200C9396A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D88542A26A502A200C9396A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D88543026A502BA00C9396A /* WaveProgressIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaveProgressIndicatorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9D88541C26A502A100C9396A /* AppDelegate.swift */,
 				9D88541E26A502A100C9396A /* SceneDelegate.swift */,
 				9D88542026A502A100C9396A /* ViewController.swift */,
+				9D88543026A502BA00C9396A /* WaveProgressIndicatorView.swift */,
 				9D88542226A502A100C9396A /* Main.storyboard */,
 				9D88542526A502A200C9396A /* Assets.xcassets */,
 				9D88542726A502A200C9396A /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				9D88542126A502A100C9396A /* ViewController.swift in Sources */,
 				9D88541D26A502A100C9396A /* AppDelegate.swift in Sources */,
+				9D88543126A502BA00C9396A /* WaveProgressIndicatorView.swift in Sources */,
 				9D88541F26A502A100C9396A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
